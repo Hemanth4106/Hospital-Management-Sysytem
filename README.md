@@ -1,4 +1,4 @@
-# Hospital-Management-Sysytem
+# Hospital-Management-System
 Languages and Tools Used 
 - MySQL Database 
 - HTML and CSS for Front End 
